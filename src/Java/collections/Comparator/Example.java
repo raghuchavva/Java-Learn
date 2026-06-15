@@ -1,6 +1,5 @@
 package Java.collections.Comparator;
 
-public class StudentComparator {
-
+public class Example {
 
 }
